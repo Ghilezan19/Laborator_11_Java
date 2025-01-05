@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Laborator11JavaApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(Laborator11JavaApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(Laborator11JavaApplication.class, args);
+    }
 
 }
